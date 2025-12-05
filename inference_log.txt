@@ -1,0 +1,5 @@
+Step 1: Current facts: ['allergy', 'cold', 'cough', 'fact', 'fever', 'flu', 'headache', 'rash', 'sore_throat']
+  Rule fired: [{'fact': 'flu', 'op': 'AND'}, {'fact': 'headache', 'op': 'AND'}] -> severe_flu (confidence: 0.8)
+  New fact added: severe_flu
+Step 2: Current facts: ['allergy', 'cold', 'cough', 'fact', 'fever', 'flu', 'headache', 'rash', 'severe_flu', 'sore_throat']
+Inference complete: No more rules can fire.
