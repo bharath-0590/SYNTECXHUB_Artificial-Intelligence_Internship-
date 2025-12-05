@@ -1,1 +1,1 @@
-#SuntcxHub_AI_Internship_Program
+@SyntecxHub_AI_Internship_Program
